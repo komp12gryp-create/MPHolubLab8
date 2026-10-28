@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MPHolubLab8</string>
+    <string name="title">Три фрагменти</string>
+    <string name="volume_button">Гучність</string>
+    <string name="notifications_button">Сповіщення</string>
+    <string name="rating_button">Оцінка</string>
+    <string name="volume_title">Рівень гучності</string>
+    <string name="notifications_title">Сповіщення</string>
+    <string name="notifications_switch">Увімкнути сповіщення</string>
+    <string name="rating_title">Оцініть застосунок</string>
 </resources>
